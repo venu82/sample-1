@@ -1,0 +1,28 @@
+Deploying:
+
+1. upload the sql file into the database.
+2. set the database configuration in the config file which is located at root-directory/library/config.php
+3. we are using apc cache make sure it is enabled..
+
+Application Credentials:
+username: dave
+password: dave
+
+Silent Features.
+1.Implemented completely in MVC Structure.
+2.Used Jquery ajax for form submissions in the application
+3.Database structure is included as image (database-model.png). open it to see the complete database structure.
+4.Used Pagination
+5.Implemented APC cache for getting and storing images from the flickr
+6.Documentation
+7.Coding standards which I followed
+8.Finally and important one "Architecture Design"
+
+Hope you will Enjoy the architecture.
+
+
+
+
+
+
+
