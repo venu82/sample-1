@@ -8,7 +8,7 @@ Application Credentials:
 username: dave
 password: dave
 
-Silent Features.
+Salient Features.
 1.Implemented completely in MVC Structure.
 2.Used Jquery ajax for form submissions in the application
 3.Database structure is included as image (database-model.png). open it to see the complete database structure.
